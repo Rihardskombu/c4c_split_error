@@ -60,7 +60,7 @@
  
  ![image](https://user-images.githubusercontent.com/56394602/147851820-4bbaedd2-c272-4c30-bb92-d921fb48edc0.png)
  
- the reason why - last line of my deliveryLocalString contains delimeter and nothing else		"111111 ~~ 222222 ~~ 333333 ~~ 444444 ~~ 555555 ~~ 666666 ~~ 777777\n";
+ the reason why - last line of my deliveryLocalString ends with a delimeter and nothing else		"111111 ~~ 222222 ~~ 333333 ~~ 444444 ~~ 555555 ~~ 666666 ~~ 777777\n";
 
 
  so I would suggest to add below check -
