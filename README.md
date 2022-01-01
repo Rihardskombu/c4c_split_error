@@ -56,7 +56,7 @@
 		start = pos + length_at;
 	}
  
- above code sometimes will hive an error like this: String Find Function: Importing parameter Length is not valid.
+ above code sometimes will have an error like this: String Find Function: Importing parameter Length is not valid.
  
  ![image](https://user-images.githubusercontent.com/56394602/147851820-4bbaedd2-c272-4c30-bb92-d921fb48edc0.png)
  
