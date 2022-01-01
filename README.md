@@ -63,6 +63,7 @@ import AP.Common.GDT; //for split
  the reason why - last line of my deliveryLocalString contains delimeter and nothing else		"111111 ~~ 222222 ~~ 333333 ~~ 444444 ~~ 555555 ~~ 666666 ~~ 777777\n";
  																					    ^
  so I would suggest to add below check -
+ 
  	if (deliveryLocalString.EndsWith(split_at))
 	{
 		var deliveryLocalStringLength = deliveryLocalString.Length();
